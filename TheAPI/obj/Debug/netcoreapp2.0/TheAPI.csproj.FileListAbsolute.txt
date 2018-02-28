@@ -1,0 +1,11 @@
+/Users/landonfolkers/Projects/TheAPI/TheAPI/bin/Debug/netcoreapp2.0/TheAPI.deps.json
+/Users/landonfolkers/Projects/TheAPI/TheAPI/bin/Debug/netcoreapp2.0/TheAPI.runtimeconfig.json
+/Users/landonfolkers/Projects/TheAPI/TheAPI/bin/Debug/netcoreapp2.0/TheAPI.runtimeconfig.dev.json
+/Users/landonfolkers/Projects/TheAPI/TheAPI/bin/Debug/netcoreapp2.0/TheAPI.dll
+/Users/landonfolkers/Projects/TheAPI/TheAPI/bin/Debug/netcoreapp2.0/TheAPI.pdb
+/Users/landonfolkers/Projects/TheAPI/TheAPI/obj/Debug/netcoreapp2.0/TheAPI.csprojResolveAssemblyReference.cache
+/Users/landonfolkers/Projects/TheAPI/TheAPI/obj/Debug/netcoreapp2.0/TheAPI.csproj.CoreCompileInputs.cache
+/Users/landonfolkers/Projects/TheAPI/TheAPI/obj/Debug/netcoreapp2.0/TheAPI.AssemblyInfoInputs.cache
+/Users/landonfolkers/Projects/TheAPI/TheAPI/obj/Debug/netcoreapp2.0/TheAPI.AssemblyInfo.cs
+/Users/landonfolkers/Projects/TheAPI/TheAPI/obj/Debug/netcoreapp2.0/TheAPI.dll
+/Users/landonfolkers/Projects/TheAPI/TheAPI/obj/Debug/netcoreapp2.0/TheAPI.pdb
